@@ -26,3 +26,9 @@ p{
     font-size: 21px;
     font-family: Verdana;
 }
+.icon{
+    margin: 20px auto 0 auto;
+}
+footer p{
+    text-align: right;
+}
